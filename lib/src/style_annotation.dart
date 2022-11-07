@@ -1,5 +1,9 @@
-class StyleAnnotation {
-  const StyleAnnotation();
+class LegendStyle {
+  const LegendStyle({
+    this.nullable = false,
+  });
+
+  final bool nullable;
 }
 
-const legendStyle = StyleAnnotation();
+const legendStyle = LegendStyle();
