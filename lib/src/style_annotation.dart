@@ -4,6 +4,6 @@ class LegendStyle {
   });
 
   final bool nullable;
-}
+} //test
 
 const legendStyle = LegendStyle();
