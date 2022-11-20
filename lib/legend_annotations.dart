@@ -1,4 +1,5 @@
 library legend_annotations;
 
-export 'src/style_annotation.dart';
-export 'src/copy_annotation.dart';
+export 'src/style.dart';
+export 'src/sub_style.dart';
+export 'src/sub_style_field.dart';
