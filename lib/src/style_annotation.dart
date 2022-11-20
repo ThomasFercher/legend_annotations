@@ -4,7 +4,7 @@ class LegendStyle {
   });
 
   final bool nullable;
-} //test
+}
 
 const legendStyle = LegendStyle();
 
@@ -13,3 +13,9 @@ class LegendSubStyle {
 }
 
 const legendSubStyle = LegendSubStyle();
+
+class LegendSubStyleField {
+  const LegendSubStyleField();
+}
+
+const legendSubStyleField = LegendSubStyleField();
