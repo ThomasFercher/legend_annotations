@@ -7,3 +7,9 @@ class LegendStyle {
 } //test
 
 const legendStyle = LegendStyle();
+
+class LegendSubStyle {
+  const LegendSubStyle();
+}
+
+const legendSubStyle = LegendSubStyle();
